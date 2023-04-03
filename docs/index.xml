@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on LoveIt</title>
-    <link>https://example.com/docs/</link>
+    <link>https://github.com/huqihua1229/huqihua1229.github.io/docs/</link>
     <description>Recent content in Docs on LoveIt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 03 Apr 2023 21:52:19 +0800</lastBuildDate><atom:link href="https://example.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Apr 2023 21:52:19 +0800</lastBuildDate><atom:link href="https://github.com/huqihua1229/huqihua1229.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>相关技术</title>
-      <link>https://example.com/docs/%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</link>
+      <link>https://github.com/huqihua1229/huqihua1229.github.io/docs/%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</link>
       <pubDate>Mon, 03 Apr 2023 21:52:19 +0800</pubDate>
       
-      <guid>https://example.com/docs/%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</guid>
+      <guid>https://github.com/huqihua1229/huqihua1229.github.io/docs/%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</guid>
       <description>相关技术 椭圆曲线签名算法（ECDSA） 秘密共享 密码学原语如何应用？走近门限密码算法 | 巴比特
 门限加密 密码学原语如何应用？走近门限密码算法 | 巴比特
 门限签名 密码学原语如何应用？走近门限密码算法 | 巴比特
@@ -42,10 +42,10 @@
     
     <item>
       <title>Demo</title>
-      <link>https://example.com/docs/demo/</link>
+      <link>https://github.com/huqihua1229/huqihua1229.github.io/docs/demo/</link>
       <pubDate>Mon, 03 Apr 2023 21:50:07 +0800</pubDate>
       
-      <guid>https://example.com/docs/demo/</guid>
+      <guid>https://github.com/huqihua1229/huqihua1229.github.io/docs/demo/</guid>
       <description>demo test
 测试</description>
     </item>

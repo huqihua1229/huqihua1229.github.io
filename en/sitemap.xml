@@ -2,36 +2,36 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.com/docs/</loc><lastmod>2023-04-03T21:52:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/</loc><lastmod>2023-04-03T21:52:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://github.com/huqihua1229/huqihua1229.github.io/docs/</loc><lastmod>2023-04-03T21:52:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/huqihua1229/huqihua1229.github.io/</loc><lastmod>2023-04-03T21:52:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/"
+                        href="https://github.com/huqihua1229/huqihua1229.github.io/zh-cn/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://example.com/"
+                    href="https://github.com/huqihua1229/huqihua1229.github.io/"
                     /></url><url>
-            <loc>https://example.com/docs/%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</loc><lastmod>2023-04-03T21:52:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/docs/demo/</loc><lastmod>2023-04-03T21:50:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/demo/</loc><lastmod>2023-04-03T21:33:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/post/demo/</loc><lastmod>2023-04-03T21:22:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/post/</loc><lastmod>2023-04-03T21:22:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://github.com/huqihua1229/huqihua1229.github.io/docs/%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</loc><lastmod>2023-04-03T21:52:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/huqihua1229/huqihua1229.github.io/docs/demo/</loc><lastmod>2023-04-03T21:50:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/huqihua1229/huqihua1229.github.io/demo/</loc><lastmod>2023-04-03T21:33:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/huqihua1229/huqihua1229.github.io/post/demo/</loc><lastmod>2023-04-03T21:22:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/huqihua1229/huqihua1229.github.io/post/</loc><lastmod>2023-04-03T21:22:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://github.com/huqihua1229/huqihua1229.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/categories/"
+                        href="https://github.com/huqihua1229/huqihua1229.github.io/zh-cn/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://example.com/categories/"
+                    href="https://github.com/huqihua1229/huqihua1229.github.io/categories/"
                     /></url><url>
-            <loc>https://example.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://github.com/huqihua1229/huqihua1229.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/tags/"
+                        href="https://github.com/huqihua1229/huqihua1229.github.io/zh-cn/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://example.com/tags/"
+                    href="https://github.com/huqihua1229/huqihua1229.github.io/tags/"
                     /></url></urlset>
