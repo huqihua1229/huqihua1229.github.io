@@ -2,9 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.com/docs/demo/</loc><lastmod>2023-04-03T21:50:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/docs/</loc><lastmod>2023-04-03T21:50:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/</loc><lastmod>2023-04-03T21:50:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/docs/</loc><lastmod>2023-04-03T21:52:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/</loc><lastmod>2023-04-03T21:52:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://example.com/zh-cn/"
@@ -13,6 +12,8 @@
                     hreflang="en"
                     href="https://example.com/"
                     /></url><url>
+            <loc>https://example.com/docs/%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</loc><lastmod>2023-04-03T21:52:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/docs/demo/</loc><lastmod>2023-04-03T21:50:07&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/demo/</loc><lastmod>2023-04-03T21:33:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/post/demo/</loc><lastmod>2023-04-03T21:22:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/post/</loc><lastmod>2023-04-03T21:22:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
